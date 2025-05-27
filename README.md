@@ -9,3 +9,5 @@ I'm a mathematician turned self-taught frontend web developer, passionate about 
 🔧 In the past, I’ve also worked with Java, R, SQL, Matlab, and taught the basics of C and C++. These experiences help me see patterns and adapt quickly across technologies.
 
 🌱 I'm always growing — and I’m looking for opportunities to gain real-world experience and contribute to meaningful projects.
+
+📫 [Contact me](mailto:monika.herkt.dev@gmail.com)
